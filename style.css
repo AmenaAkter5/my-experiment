@@ -30,4 +30,8 @@ section{
     padding: 10px 40px;
     font-size: 25px;
     border-radius: 5px;
+    font-weight: 700;
+}
+.top-banner{
+    background-image: url(top-banner.png);
 }
