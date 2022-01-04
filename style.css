@@ -7,3 +7,12 @@ h1{
 .special-color{
     color: blue;
 }
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 90%;
+}
